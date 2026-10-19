@@ -153,6 +153,6 @@ python3 -m venv .venv
 - Темуров Мухаммадали Абдужабборович - https://github.com/Muhammadali2712
 - Шарипов Нуриддин Заурович - https://github.com/Coder1310
 - Салдан Ануар - https://github.com/sillynacht
-- Дауэр Владислав Романович - GitHub пока не указан.
+- Дауэр Владислав Романович - https://github.com/vladislavdauer
 
 Проект для курса «Мультиагентные системы / LLM Agents».
